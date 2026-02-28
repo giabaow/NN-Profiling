@@ -25,7 +25,7 @@ This repository demonstrates **profiling memory and compute usage** of different
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/NN-Profiling.git
+git clone https://github.com/giabaow/NN-Profiling.git
 cd NN-Profiling
 ```
 
